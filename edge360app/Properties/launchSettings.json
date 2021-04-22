@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "edge360app": {
+      "commandName": "Project",
+      "commandLineArgs": "-i"
+    }
+  }
+}

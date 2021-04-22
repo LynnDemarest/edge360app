@@ -1,0 +1,21 @@
+Unique Camera Combinations
+
+We wish to know how many unique combinations of cameras are in use by our clients.
+
+Attached to this message is a list of fictitious sites along with the cameras it has in use.
+
+Using a language of your choice please write an application or script which will write the most frequent, unique combinations. We will need to be able to compile or run your solution.
+
+Sample output:
+
+Axis M3204 = 1000
+Arecont AV10005DN, Axis P1346 = 200
+Bosch NBN-921-P = 18
+
+And so on.
+
+Our estimate for this exercise is 30 minutes. When you are finished please send the solution directly to me.
+ 
+For best results, focus on accuracy and brevity. Prefer inefficient but short solutions over efficient but complex ones. Try to write the top 10, then all of the unique combinations, then if time allows, order the combinations in alphabetical order when a collision in rank occurs.
+
+We look forward to your response!
